@@ -7,6 +7,10 @@
     width: 300px;
 
 }
+.table td{
+    width: 300px;
+
+}
 .tableRow:nth-child(even) {
   background-color: #cfc6c6; 
   color: black;
