@@ -1,0 +1,18 @@
+.header{
+    background-color: black;
+    color: white;
+    width: 300px;
+}
+.table th{
+    width: 300px;
+
+}
+.tableRow:nth-child(even) {
+  background-color: #cfc6c6; 
+  color: black;
+}
+
+.tableRow:nth-child(odd) {
+  background-color: #c70f0f; 
+  color: black;
+}
